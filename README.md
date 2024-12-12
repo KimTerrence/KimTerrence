@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KimTerrence
 - 👀 Accepting Commision
-- 🌱 I’m currently learning MERN
+- 🌱 LAMP X MERN
